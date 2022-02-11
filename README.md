@@ -5,12 +5,23 @@
 $ git clone git@github.com:wr2net/nodejs-reactjs-dio.git
 ```
 
-## Acesse o diretório:
+## Instalando dependências no backend:
+```
+$ cd nodejs-reactjs-dio/backend
+```
+```
+$ yarn install
+```
+
+## Instalando dependências no frontend:
 ```
 $ cd nodejs-reactjs-dio/frontend
 ```
+```
+$ yarn install
+```
 
-## Rode o comando:
+## Iniciando a aplicação (dentro do diretório frontend):
 ```
 $ yarn start
 ```
